@@ -1,4 +1,4 @@
-## Progetto android per innovazione per cultura e turismo ##
+## Progetto android di innovazione per cultura e turismo ##
 
 **AndroidSWNapoli** contiene i progetti sviluppati nella sede di Napoli.
 
@@ -13,4 +13,4 @@ GitRepo:
 
 ### Per ulteriori informazioni su gitFlow workflow ###
 
-Seguire il tutorial [tutorial GITFLOW WORKFLO](https://www.atlassian.com/git/workflows#!workflow-gitflow)
+Seguire il tutorial [tutorial GITFLOW WORKFLOW](https://www.atlassian.com/git/workflows#!workflow-gitflow)
